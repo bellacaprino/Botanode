@@ -87,5 +87,3 @@ Use the Max patch to apply filters, delays, or other audio effects to the raw si
 - Connect multiple plants using additional electrode pairs to create a rich, layered “plant orchestra.”
 
 ---
-
-With Botanode, you’re turning natural energy into art. Experiment, play, and explore new ways to make plants a part of your music. 🌱🎵
