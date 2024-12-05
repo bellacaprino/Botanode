@@ -49,14 +49,14 @@ Here’s everything you need to set up and start playing Botanode!
 ---
 
 ### **Step 2: Uploading the Code**
-1. Open the Arduino code (`YourSketch.ino`) in the Arduino IDE.
+1. Open the Arduino code (`Botanode.ino`) in the Arduino IDE.
 2. Plug in your Arduino or Teensy via USB.
 3. Hit **Upload** to load the code. Done.
 
 ---
 
 ### **Step 3: Max MSP**
-1. Open the Max patch file (`YourPatch.maxpat`).
+1. Open the Max patch file (`Botanode.maxpat`).
 2. Set up the **Serial** object to talk to your Arduino.
 3. You’re ready to see the data in Max and start generating sounds.
 
@@ -75,15 +75,5 @@ Here’s everything you need to set up and start playing Botanode!
 
 ---
 
-## **Diagram**
-For reference, check the wiring diagram:  
-- [Diagram.fzz](./Diagram.fzz)  
-- [Diagram.pdf](./Diagram.pdf)  
-- [Diagram.jpg](./Diagram.jpg)  
 
----
-
-
----
-
-That’s it! Have fun creating music with your new instrument. 🌱✨
+That’s it! Have fun creating music with your new instrument. 🌱✨ :-)
